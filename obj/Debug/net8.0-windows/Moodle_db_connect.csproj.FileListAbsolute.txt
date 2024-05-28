@@ -61,3 +61,4 @@ F:\Proyectos_Visual\Moodle_check\obj\Debug\net8.0-windows\Moodle_db_connect.pdb
 F:\Proyectos_Visual\Moodle_check\obj\Debug\net8.0-windows\Moodle_db_connect.genruntimeconfig.cache
 F:\Proyectos_Visual\Moodle_check\obj\Debug\net8.0-windows\ref\Moodle_db_connect.dll
 F:\Proyectos_Visual\Moodle_check\obj\Debug\net8.0-windows\Moodle_db_connect.Properties.Resources.resources
+F:\Proyectos_Visual\Moodle_check\obj\Debug\net8.0-windows\Moodle_db_connect.sourcelink.json

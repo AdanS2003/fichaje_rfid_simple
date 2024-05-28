@@ -43,9 +43,7 @@ namespace Moodle_db_connect
                 string nfcData = inputBuffer.ToString();
                 textBox1.Text = nfcData; // Display the NFC data in textBox1
                 textBox1.ReadOnly = true; // Disable writing to the TextBox
-                labelError.ForeColor = Color.Green;
-                labelError.Text = "Registro de acceso creado correctamente para davidbrelop";
-                // queryMoodle(nfcData); // Call the method with NFC data
+                queryMoodle(nfcData); // Call the method with NFC data
 
                 inputBuffer.Clear(); // Clear the buffer for the next input
                 e.Handled = true; // Mark the event as handled

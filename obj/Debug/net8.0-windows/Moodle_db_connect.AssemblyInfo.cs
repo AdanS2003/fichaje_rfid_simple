@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moodle_db_connect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+872321964230d3ec9560277dd5662e563c99d231")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moodle_db_connect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moodle_db_connect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
